@@ -1,0 +1,22 @@
+{
+  "name": "js-nombres-romain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bachir1998/js-nombres-romain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bachir1998/js-nombres-romain/issues"
+  },
+  "homepage": "https://github.com/bachir1998/js-nombres-romain#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
